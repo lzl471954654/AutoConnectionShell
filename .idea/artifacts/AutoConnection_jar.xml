@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoConnection:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoConnection_jar</output-path>
+    <root id="archive" name="AutoConnection.jar">
+      <element id="module-output" name="AutoConnection" />
+      <element id="library" level="project" name="okio-1.6.0" />
+      <element id="extracted-dir" path="D:/JAVA/okio-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/JAVA/okhttp-3.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
